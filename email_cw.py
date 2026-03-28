@@ -1,12 +1,11 @@
 """
 Script: email_cw.py
 Description: Finds unique email addresses in a pcap file.
-Author: James Hunter, 40646575
+Author: James H
 Modified: 25/11/2024
 Pylint Score: 10.00
 ================================================
-This is the email file of the coursework.
-Code in Lab 7b and 7c was reused here, the variable names are mostly the same.
+This is the email file.
 ================================================
 """
 
