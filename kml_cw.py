@@ -6,8 +6,7 @@ Author: James Hunter, 40646575
 Modified: 30/11/2024
 Pylint Score: 9.46
 ================================================
-This is the KML file of the coursework.
-Code in Lab 9 was reused here, the variable names are mostly the same.
+This is the KML file.
 ================================================
 """
 
