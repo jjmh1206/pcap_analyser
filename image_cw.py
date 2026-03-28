@@ -5,8 +5,7 @@ Author: James Hunter, 40646575
 Modified: 28/11/2024
 PEP8 Score: 9.44
 ================================================
-This is the image file of the coursework.
-Code in Lab 7b and 7c was reused here, the variable names are the same.
+This is the image file.
 ================================================
 """
 
