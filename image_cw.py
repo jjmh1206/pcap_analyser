@@ -1,7 +1,7 @@
 """
 Script: image_cw.py
 Description: Finds images in HTTP GET requests.
-Author: James Hunter, 40646575
+Author: James H
 Modified: 28/11/2024
 PEP8 Score: 9.44
 ================================================
