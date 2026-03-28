@@ -1,7 +1,7 @@
 """
 Script: summary_cw.py
 Description: Collects protocol data and formats it into a table.
-Categories are "Protocol, count, first timestamp, last timestamp. 
+Categories are Protocol, count, first timestamp, last timestamp. 
 Author: James H
 Modified: 20/11/2024
 Pylint Score: 9.43
