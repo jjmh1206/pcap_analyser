@@ -2,7 +2,7 @@
 Script: kml_cw.py
 Description: Creates a KML file based on the destination addresses
 found in a pcap.
-Author: James Hunter, 40646575
+Author: James H
 Modified: 30/11/2024
 Pylint Score: 9.46
 ================================================
