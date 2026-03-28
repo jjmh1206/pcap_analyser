@@ -1,7 +1,7 @@
 """
 Script: pcap_analyser.py
 Description: Analyses pcap files and sorts IP data into a readable table.
-Author: James Hunter, 40646575
+Author: James H
 Modified: 17/11/2024
 Pylint Score: 9.84
 ================================================
