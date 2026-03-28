@@ -6,8 +6,7 @@ Author: James Hunter, 40646575
 Modified: 20/11/2024
 Pylint Score: 9.43
 ================================================
-This is the protocol summary file of the coursework.
-Code in Lab 7b was reused here, the variable names are mostly the same.
+This is the protocol summary file of that is run from the main file.
 ================================================
 """
 
