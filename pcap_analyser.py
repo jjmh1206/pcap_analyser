@@ -5,7 +5,7 @@ Author: James Hunter, 40646575
 Modified: 17/11/2024
 Pylint Score: 9.84
 ================================================
-This is the main file of the coursework.
+This is the main file.
 Use this file only for running the program, the code to run the files on
 their own was removed after testing. This program will not work with
 pcapng extension, use pcap only.
